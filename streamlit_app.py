@@ -28,7 +28,6 @@ def create_env():
 
 st.title("EXpert System lab2")
 
-st.write("这个示例会把输入作为一个 fact 断言到 CLIPS，然后运行推理并显示结果。")
 
 name = st.text_input("Enter your name")
 

@@ -26,7 +26,7 @@ def create_env():
 	return env
 
 
-st.title("简单专家系统示例")
+st.title("EXpert System lab2")
 
 st.write("这个示例会把输入作为一个 fact 断言到 CLIPS，然后运行推理并显示结果。")
 
